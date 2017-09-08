@@ -1,0 +1,5 @@
+C:\aula\primeri.csharp.io\IOTesting\IOXMLFiles\bin\Debug\IOXMLFiles.exe.config
+C:\aula\primeri.csharp.io\IOTesting\IOXMLFiles\bin\Debug\IOXMLFiles.exe
+C:\aula\primeri.csharp.io\IOTesting\IOXMLFiles\bin\Debug\IOXMLFiles.pdb
+C:\aula\primeri.csharp.io\IOTesting\IOXMLFiles\obj\Debug\IOXMLFiles.exe
+C:\aula\primeri.csharp.io\IOTesting\IOXMLFiles\obj\Debug\IOXMLFiles.pdb

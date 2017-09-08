@@ -74,6 +74,7 @@ namespace IOTextFiles
                     return false;
                 }
 
+                // Стартиране на файл:
                 System.Diagnostics.Process.Start(filePath);
 
                 return true;
